@@ -10,7 +10,7 @@ Requires PHP: 5.6.20
 Tested up to: 6.5.4
 Author URI: https://localise.biz/wordpress/plugin
 Text Domain: loco-translate
-Domain Path: /languages/
+Domain Path: /languages/ 
 */
 
 // disallow execution out of context
