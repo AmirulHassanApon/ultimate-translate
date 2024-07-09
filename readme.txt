@@ -1,5 +1,5 @@
 	=== Loco Translate ===
-Contributors: timwhitlock
+Contributors: timwhitlock,apon
 Tags: translation, language, multilingual, l10n, i18n
 Requires at least: 5.2
 Requires PHP: 5.6.20
