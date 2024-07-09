@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Loco Translate
+Plugin Name: Ultimate Translate
 Plugin URI: https://wordpress.org/plugins/loco-translate/
 Description: Translate themes and plugins directly in WordPress
 Author: Tim Whitlock
